@@ -207,6 +207,7 @@ img{
     &__social{
         display: flex;
         flex-direction: column;
+        margin-bottom: 40px;
         &-icon{
             width: max-content;
             margin-bottom: var(--mb-2);

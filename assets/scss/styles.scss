@@ -260,6 +260,10 @@ img{
         }
     }
 }
+@media screen and(min-width: 360px){
+    .img{
+        margin-bottom: -80px;
+    }
 
 /* ===== SKILLS =====*/
 .skills{

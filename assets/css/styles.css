@@ -251,8 +251,8 @@ img{
 .download-btn{
     background-color: DodgerBlue;
     color: white;
-    padding: 1rem 2rem;
-    font-size: 2rem;
+    padding: 10px 10px;
+    font-size: 15px;
     text-decoration: none;
     border-radius:5px;
 }
